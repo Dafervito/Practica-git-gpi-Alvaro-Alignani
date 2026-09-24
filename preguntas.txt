@@ -4,3 +4,4 @@ A) 30 minutos
 B) 15 minutos
 C) 1 hora
 D) Lo que decida el Product Owner
+E) El poder de la amistad
